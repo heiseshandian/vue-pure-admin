@@ -19,8 +19,7 @@ export default {
         title: $t("menus.pureFormDesign"),
         keepAlive: true,
         frameSrc:
-          "https://haixin-fang.github.io/vue-form-design/playground/index.html",
-        frameLoading: false
+          "https://haixin-fang.github.io/vue-form-design/playground/index.html"
       }
     }
   ]
